@@ -11,7 +11,7 @@ import os
 import logging
 
 log = logging.getLogger("werkzeug")
-log.setLevel(logging.ERROR)  # Only log errors and above
+log.setLevel(logging.ERROR)
 
 
 # --- Pygame Constants ---
